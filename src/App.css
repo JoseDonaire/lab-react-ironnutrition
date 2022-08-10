@@ -1,5 +1,14 @@
 .App {
   text-align: center;
+  display: flex;
+  flex-direction: column;
+  gap: 20em;
+}
+.Cards{ 
+  border: solid 3px black;
+  gap: 2em;
+  display: flex;
+  flex-direction: column  
 }
 
 .App-logo {
